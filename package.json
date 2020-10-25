@@ -1,0 +1,21 @@
+{
+  "name": "unit-converter",
+  "version": "1.0.0",
+  "description": "A simple Node application to convert between various units of measurements",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gothinkster/productionready-node-api.git"
+  },
+  "author": "Shenbaga Murugan P",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
